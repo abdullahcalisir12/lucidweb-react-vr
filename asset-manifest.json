@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/lucid-react-vr/static/css/main.d1b05096.chunk.css",
-    "main.js": "/lucid-react-vr/static/js/main.9474a781.chunk.js",
-    "main.js.map": "/lucid-react-vr/static/js/main.9474a781.chunk.js.map",
+    "main.css": "/lucid-react-vr/static/css/main.f6cffc85.chunk.css",
+    "main.js": "/lucid-react-vr/static/js/main.2f423253.chunk.js",
+    "main.js.map": "/lucid-react-vr/static/js/main.2f423253.chunk.js.map",
     "runtime-main.js": "/lucid-react-vr/static/js/runtime-main.888ccd72.js",
     "runtime-main.js.map": "/lucid-react-vr/static/js/runtime-main.888ccd72.js.map",
-    "static/js/2.d1379f7d.chunk.js": "/lucid-react-vr/static/js/2.d1379f7d.chunk.js",
-    "static/js/2.d1379f7d.chunk.js.map": "/lucid-react-vr/static/js/2.d1379f7d.chunk.js.map",
+    "static/js/2.8ea4b3a3.chunk.js": "/lucid-react-vr/static/js/2.8ea4b3a3.chunk.js",
+    "static/js/2.8ea4b3a3.chunk.js.map": "/lucid-react-vr/static/js/2.8ea4b3a3.chunk.js.map",
     "index.html": "/lucid-react-vr/index.html",
-    "precache-manifest.b379c6f54d0b023389b5ee64b641b604.js": "/lucid-react-vr/precache-manifest.b379c6f54d0b023389b5ee64b641b604.js",
+    "precache-manifest.848b11032514ea1606f6175dc3e3102e.js": "/lucid-react-vr/precache-manifest.848b11032514ea1606f6175dc3e3102e.js",
     "service-worker.js": "/lucid-react-vr/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/lucid-react-vr/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.d1379f7d.chunk.js.LICENSE.txt": "/lucid-react-vr/static/js/2.d1379f7d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lucid-react-vr/static/media/logo.5d5d9eef.svg"
+    "static/css/main.f6cffc85.chunk.css.map": "/lucid-react-vr/static/css/main.f6cffc85.chunk.css.map",
+    "static/js/2.8ea4b3a3.chunk.js.LICENSE.txt": "/lucid-react-vr/static/js/2.8ea4b3a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.888ccd72.js",
-    "static/js/2.d1379f7d.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9474a781.chunk.js"
+    "static/js/2.8ea4b3a3.chunk.js",
+    "static/css/main.f6cffc85.chunk.css",
+    "static/js/main.2f423253.chunk.js"
   ]
 }
