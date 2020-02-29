@@ -1,0 +1,2 @@
+export const CREATE_PLANET = 'CREATE_PLANET';
+export const DELETE_PLANET = 'DELETE_PLANET';
