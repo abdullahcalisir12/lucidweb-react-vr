@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lucidweb-react-vr/static/css/main.d1b05096.chunk.css",
-    "main.js": "/lucidweb-react-vr/static/js/main.36e205b8.chunk.js",
-    "main.js.map": "/lucidweb-react-vr/static/js/main.36e205b8.chunk.js.map",
-    "runtime-main.js": "/lucidweb-react-vr/static/js/runtime-main.ba0fa289.js",
-    "runtime-main.js.map": "/lucidweb-react-vr/static/js/runtime-main.ba0fa289.js.map",
-    "static/js/2.bed91337.chunk.js": "/lucidweb-react-vr/static/js/2.bed91337.chunk.js",
-    "static/js/2.bed91337.chunk.js.map": "/lucidweb-react-vr/static/js/2.bed91337.chunk.js.map",
-    "index.html": "/lucidweb-react-vr/index.html",
-    "precache-manifest.37a4cd45e85708348585b6484cdefc9c.js": "/lucidweb-react-vr/precache-manifest.37a4cd45e85708348585b6484cdefc9c.js",
-    "service-worker.js": "/lucidweb-react-vr/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/lucidweb-react-vr/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.bed91337.chunk.js.LICENSE.txt": "/lucidweb-react-vr/static/js/2.bed91337.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lucidweb-react-vr/static/media/logo.5d5d9eef.svg"
+    "main.css": "/lucid-react-vr/static/css/main.d1b05096.chunk.css",
+    "main.js": "/lucid-react-vr/static/js/main.a9df9b82.chunk.js",
+    "main.js.map": "/lucid-react-vr/static/js/main.a9df9b82.chunk.js.map",
+    "runtime-main.js": "/lucid-react-vr/static/js/runtime-main.888ccd72.js",
+    "runtime-main.js.map": "/lucid-react-vr/static/js/runtime-main.888ccd72.js.map",
+    "static/js/2.bed91337.chunk.js": "/lucid-react-vr/static/js/2.bed91337.chunk.js",
+    "static/js/2.bed91337.chunk.js.map": "/lucid-react-vr/static/js/2.bed91337.chunk.js.map",
+    "index.html": "/lucid-react-vr/index.html",
+    "precache-manifest.33c82d399cf8525bb1a4fc69009fcec0.js": "/lucid-react-vr/precache-manifest.33c82d399cf8525bb1a4fc69009fcec0.js",
+    "service-worker.js": "/lucid-react-vr/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/lucid-react-vr/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bed91337.chunk.js.LICENSE.txt": "/lucid-react-vr/static/js/2.bed91337.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lucid-react-vr/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba0fa289.js",
+    "static/js/runtime-main.888ccd72.js",
     "static/js/2.bed91337.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.36e205b8.chunk.js"
+    "static/js/main.a9df9b82.chunk.js"
   ]
 }
