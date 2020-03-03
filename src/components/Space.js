@@ -11,8 +11,10 @@ export default class Space extends React.Component {
         src="#cosmos"
         radius={10000}
         side="double"
+        // animation="property: rotation; to: 0 0 360; loop: true; dur: 20000"
       >
+        {this.props.children}
       </a-sky>
     );
-  }
+  }aw
 }
