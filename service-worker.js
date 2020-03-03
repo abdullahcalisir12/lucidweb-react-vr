@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lucid-react-vr/precache-manifest.f7454c0082cd4cc0f9759524aede8886.js"
+  "/lucid-react-vr/precache-manifest.bee49be03b4e372a394cf424151b2514.js"
 );
 
 self.addEventListener('message', (event) => {
