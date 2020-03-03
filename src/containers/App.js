@@ -34,11 +34,12 @@ class App extends React.Component {
             <img id="neptune" src={neptune}  alt="neptune"/>
           </a-assets>
 
-          <Space />
-          <Sun />
-          <Planets />
+          <Space>
+            <Sun />
+            <Planets />
+          </Space>
 
-          <a-camera position="0 0 5">
+          <a-camera position="0 0 7">
           </a-camera>
         </a-scene>
       </div>
@@ -52,9 +53,5 @@ const mapStateToProps = (state) => {
   };
 };
 
-const mapDispatchToProps = (dispatch) => {
-  return {
-  };
-};
 
-export default connect(mapStateToProps, mapDispatchToProps)(App);
+export default connect(mapStateToProps)(App);

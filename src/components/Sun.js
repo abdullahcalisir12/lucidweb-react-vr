@@ -10,9 +10,10 @@ export default class Sun extends React.Component {
       <a-sphere
         src="#sun"
         color="#fff"
-        position={`${-0.696340} 0 0`}
+        position="0 0 0"
         repeat="5 5"
         radius={0.696340}
+        side="double"
       />
     );
   }
